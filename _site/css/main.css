@@ -96,6 +96,9 @@ a {
 .footer h3 span {
   color: #aaa;
 }
+.footer .social-list {
+  padding-top: 30px;
+}
 .footer-nav li {
   display: inline-block;
   margin: 2em 1em 0;
